@@ -72,7 +72,7 @@ except: pass
 
 # ──────────────────────── 설정 ────────────────────────
 API_URL = "https://api.puter.com/puterai/openai/v1/chat/completions"
-API_KEY = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0IjoiZ3VpIiwidiI6IjAuMC4wIiwidSI6IkM3TnZYNzFYUWhXZEhxRW9PNWlMdXc9PSIsInV1IjoiQXM5ejRTeE5Rb2lKYXhxc1hlU0FtUT09IiwiaWF0IjoxNzczMDU0MTY5fQ.JEUncC2FH_x3t47mNvoBxNgevnbL60oof803ed0QZlk"
+API_KEY 'YOUR_API_KEY_HERE"
 
 # ── 멀티봇 설정: 중요도별 호출 횟수 & fallback 체인 ──
 BOT_ROSTER = {
